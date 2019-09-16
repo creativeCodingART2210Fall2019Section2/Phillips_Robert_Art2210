@@ -3,10 +3,7 @@
 
 
 <div align=left>
-While Loop:
-
-<div align=center>
-![]()
+![While Loop:]()
 
 <div align=left>
 Do While Loop:
