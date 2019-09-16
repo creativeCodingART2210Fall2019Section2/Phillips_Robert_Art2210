@@ -1,7 +1,7 @@
 # Phillips_Robert_Art2210
 
 
-<div align=center>
+<div align=left>
 
 While Loop:
 
