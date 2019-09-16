@@ -22,7 +22,6 @@ function draw(){
     let g = random(0,255);
     let b = random(0,255);
     ellipseTime(r,g,b);
-
     
 }
 
