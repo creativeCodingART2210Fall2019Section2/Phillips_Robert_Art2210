@@ -59,9 +59,9 @@ function windowResized(){
 }
 
 function mousePressed(){
-    var d = dist(coord.x,coord.y,mouseX,mouseY)*1;
-    var dGood = dist(coord.x,coord.y,mouseX,mouseY)*.7;
-    var lives = dist(coord.x,coord.y,mouseX,mouseY)*.4;
+    var d = abs(dist(coord.x,coord.y,mouseX,mouseY)*1);
+    var dGood = abs(dist(coord.x,coord.y,mouseX,mouseY)*.7);
+    var lives = abs(dist(coord.x,coord.y,mouseX,mouseY)*.1);
     if(lives<coord.size && (counter<5 && counter !=0)){
         counter--;
     }
