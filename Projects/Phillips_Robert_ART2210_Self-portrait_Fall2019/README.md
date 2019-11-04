@@ -1,11 +1,11 @@
 ## Robert Phillips project 1
 
-[Robert Phill-caso](https://rmphill0210.github.io/Personal/Project1/Index.html)
+[Robert Phill-caso](https://rmphill0210.github.io/Personal/Projects/Phillips_Robert_ART2210_Self-portrait_Fall2019/Index.html)
 
 ## Reference Painting
 <div align=center>
 
-![](https://rmphill0210.github.io/Personal/Project1/IMG/JacquilineWithGlossyHair.jpg)
+![](https://rmphill0210.github.io/Personal/Projects/Phillips_Robert_ART2210_Self-portrait_Fall2019/IMG/JacquilineWithGlossyHair.jpg)
 
    I started this project by taking a few minutes to try and figure out how Picasso came up with this composition.  Without knowing what the image he was working from looked like figuring out where his color selection came from was impossible.  I was able to make several assumptions though.  The tan base color was either a reference to the skin tone of the subject, or a component of the surroundings.  So what I did was to work from both assumptions.  The background of my picture is the gray of the walls in my house where I took the reference photos I worked from, and the square behind my portrait serves to frame me in the image, and also to serve as my skin tone.
 
