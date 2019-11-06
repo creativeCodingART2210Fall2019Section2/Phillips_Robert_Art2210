@@ -9,6 +9,8 @@
 
 [Random Array](https://rmphill0210.github.io/Personal/Exercises/Phillips_Robert_Art2210_randomArray_Fall2019/randomArray.html)
 
-[Data Visualization](https://rmphill0210.github.io/Personal/Exercises)
+[[Data Visualization](https://rmphill0210.github.io/Personal/Exercises/Phillips_Robert_Art2210_json_Fall2019/Nov4.html)
+
+[Extra Data Visualization](https://rmphill0210.github.io/Personal/Exercises/Phillips_Robert_Art2210_weather_Fall2019/Nov6.html);
 
 
